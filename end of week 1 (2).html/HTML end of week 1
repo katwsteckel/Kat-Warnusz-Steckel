@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kat Warnusz-Steckel</title>
+    <link rel="stylesheet" href="styles.css"
+</head>
+<body>
+    <header>
+  <h1 class="h1">Kat Warnusz-Steckel</h1> 
+  <ul class="ul">
+<p> Actor</p>
+<p>Writer</p>
+<p>Producer</p>
+</ul> 
+</header>
+<main>
+  <div class="card--1">
+    <div class="card--1 content">
+  <a href="https://www.katwsteckel.com/" target="_blank">About Me</a>
+  <p><img src="https://static.wixstatic.com/media/5adb75_9e990beb3d9b4918a1101c2d40d591f1~mv2.jpg/v1/fill/w_1010,h_893,al_t,q_85,enc_avif,quality_auto/5adb75_9e990beb3d9b4918a1101c2d40d591f1~mv2.jpg" alt="headshot Kat" width="200">
+</p>
+</div>
+</div>
+<div class="card--2">
+    <div class="card--2 content">
+<h2 class="h2">Showreel</h2>
+<p>
+    
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/krhiRarHkX4?si=fJ8Xw8nd00yCo3LU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+</div>
+</div>
+<div class="card--3">  
+<h2 class="h2">Audio Sample</h2>
+<audio controls>
+    <source src="https://mail.google.com/mail/u/0/popout?ver=kcqgvk2cuf6z#attid%253Datt_1920026278f6d46f_0.1_f_m16gqgaf0" type="audio/mpeg">
+</audio>
+</div>
+<div class="card--4">
+    <h2 class="h2">Contact Me</h2>
+<form class="form">
+    <label for="name" class="name">Name:</label>
+    <p>
+    <input type="text" id="name" name="name" required/>
+    </p>
+    <p>
+    <label for="email">Email:</label>
+    <p>
+    <input type="email" id="email" name="email" required/>
+    </p></p>
+    <p>
+    <label for="message">Message:</label>
+    <p>
+    <textarea id="message" name="message" rows="4"></textarea>
+    </p>
+    </p>
+    <input type="submit" value="Submit">
+</form>
+</div>
+</p>
+</main>
+</body>
+</html>
