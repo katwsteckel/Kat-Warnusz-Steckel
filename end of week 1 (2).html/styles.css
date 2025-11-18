@@ -1,5 +1,6 @@
 body {
-            display: flex;
+    @import url('https://fonts.googleapis.com/css2?family=Elms+Sans:ital,wght@0,100..900;1,100..900&family=Poppins:wght@300&family=Quicksand:wght@300..700&display=swap');        
+    display: flex;
             flex-direction: column;
             justify-content: center;
             justify-content: space-around;
